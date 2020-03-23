@@ -1,0 +1,29 @@
+{
+    "name": "doomtetris",
+    "version": "1.0.0",
+    "description": "Easy example of tetris in Reactjs",
+    "main": "index.js",
+    "dependencies": {
+        "gulp-webpack": "^1.5.0"
+    },
+    "devDependencies": {
+        "gulp": "^4.0.2",
+        "gulp-concat": "^2.6.1",
+        "gulp-htmlmin": "^3.0.0",
+        "gulp-uglify": "^2.0.0",
+        "gulp-csso": "^4.0.1"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/carlosbajo/DoomTetris.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/carlosbajo/DoomTetris/issues"
+    },
+    "homepage": "https://github.com/carlosbajo/DoomTetris#readme"
+}
